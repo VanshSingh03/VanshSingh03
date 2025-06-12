@@ -1,4 +1,4 @@
-##👋 Hi, I'm Vansh Singh
+👋 Hi, I'm Vansh Singh
 A passionate frontend web developer who loves building interactive and user-friendly web applications.
 
 ## 🔧 Tech Stack
